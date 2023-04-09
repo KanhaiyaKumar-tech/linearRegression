@@ -75,3 +75,10 @@ git remote -v
 
 ls -a
 ```
+## if already done it then do below step
+```
+git add .
+git commit -m "change commit"
+git push -u origin main
+git status
+```
