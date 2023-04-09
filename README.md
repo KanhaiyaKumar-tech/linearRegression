@@ -66,3 +66,16 @@ git commit -m "change commit"
 git push -u origin main
 git status
 ```
+## to create a new branch and change to new branch
+```
+git branch new-branch-name
+
+git checkout new-branch-name
+
+git add .
+
+git commit -m "commit message"
+
+git push origin new-branch-name
+
+```
