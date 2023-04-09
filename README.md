@@ -79,3 +79,9 @@ git commit -m "commit message"
 git push origin new-branch-name
 
 ```
+### if give remote origin already exists
+```
+git remote rm origin
+
+git remote -v
+```
